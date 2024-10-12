@@ -7,48 +7,42 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		72C5F09A2CBA8DB10088DF8F /* IconsService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72C5F0952CBA8D350088DF8F /* IconsService.swift */; };
+		72C5F09B2CBA8DBF0088DF8F /* StyleruTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72C5F08B2CBA8D350088DF8F /* StyleruTabBarController.swift */; };
+		72C5F09C2CBA8DBF0088DF8F /* Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72C5F08A2CBA8D350088DF8F /* Images.swift */; };
+		72C5F09D2CBA8DBF0088DF8F /* Fonts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72C5F0892CBA8D350088DF8F /* Fonts.swift */; };
+		72C5F09E2CBA8DBF0088DF8F /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72C5F0882CBA8D350088DF8F /* Colors.swift */; };
+		72C5F09F2CBA8DD50088DF8F /* AnimationsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72C5F0932CBA8D350088DF8F /* AnimationsViewController.swift */; };
+		72C5F0A02CBA8DD50088DF8F /* EnterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72C5F08D2CBA8D350088DF8F /* EnterViewController.swift */; };
+		72C5F0A12CBA8DD50088DF8F /* animation1.json in Resources */ = {isa = PBXBuildFile; fileRef = 72C5F08F2CBA8D350088DF8F /* animation1.json */; };
+		72C5F0A22CBA8DD50088DF8F /* animation2.json in Resources */ = {isa = PBXBuildFile; fileRef = 72C5F0902CBA8D350088DF8F /* animation2.json */; };
+		72C5F0A32CBA8DD50088DF8F /* animation3.json in Resources */ = {isa = PBXBuildFile; fileRef = 72C5F0912CBA8D350088DF8F /* animation3.json */; };
 		72E41B702CB8557900FFDBC0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72E41B6F2CB8557900FFDBC0 /* AppDelegate.swift */; };
 		72E41B722CB8557900FFDBC0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72E41B712CB8557900FFDBC0 /* SceneDelegate.swift */; };
-		72E41B742CB8557900FFDBC0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72E41B732CB8557900FFDBC0 /* ViewController.swift */; };
 		72E41B772CB8557900FFDBC0 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 72E41B762CB8557900FFDBC0 /* Base */; };
 		72E41B792CB8557B00FFDBC0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 72E41B782CB8557B00FFDBC0 /* Assets.xcassets */; };
 		72E41B7C2CB8557B00FFDBC0 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 72E41B7B2CB8557B00FFDBC0 /* Base */; };
-		72E41B872CB8557C00FFDBC0 /* AutumnSchool24Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72E41B862CB8557C00FFDBC0 /* AutumnSchool24Tests.swift */; };
-		72E41B912CB8557C00FFDBC0 /* AutumnSchool24UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72E41B902CB8557C00FFDBC0 /* AutumnSchool24UITests.swift */; };
-		72E41B932CB8557C00FFDBC0 /* AutumnSchool24UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72E41B922CB8557C00FFDBC0 /* AutumnSchool24UITestsLaunchTests.swift */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		72E41B832CB8557C00FFDBC0 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 72E41B642CB8557900FFDBC0 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 72E41B6B2CB8557900FFDBC0;
-			remoteInfo = AutumnSchool24;
-		};
-		72E41B8D2CB8557C00FFDBC0 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 72E41B642CB8557900FFDBC0 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 72E41B6B2CB8557900FFDBC0;
-			remoteInfo = AutumnSchool24;
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
+		72C5F0882CBA8D350088DF8F /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
+		72C5F0892CBA8D350088DF8F /* Fonts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fonts.swift; sourceTree = "<group>"; };
+		72C5F08A2CBA8D350088DF8F /* Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Images.swift; sourceTree = "<group>"; };
+		72C5F08B2CBA8D350088DF8F /* StyleruTabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StyleruTabBarController.swift; sourceTree = "<group>"; };
+		72C5F08D2CBA8D350088DF8F /* EnterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnterViewController.swift; sourceTree = "<group>"; };
+		72C5F08F2CBA8D350088DF8F /* animation1.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = animation1.json; sourceTree = "<group>"; };
+		72C5F0902CBA8D350088DF8F /* animation2.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = animation2.json; sourceTree = "<group>"; };
+		72C5F0912CBA8D350088DF8F /* animation3.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = animation3.json; sourceTree = "<group>"; };
+		72C5F0932CBA8D350088DF8F /* AnimationsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationsViewController.swift; sourceTree = "<group>"; };
+		72C5F0952CBA8D350088DF8F /* IconsService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsService.swift; sourceTree = "<group>"; };
+		72C5F0962CBA8D350088DF8F /* ListCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListCollectionViewController.swift; sourceTree = "<group>"; };
 		72E41B6C2CB8557900FFDBC0 /* AutumnSchool24.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AutumnSchool24.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		72E41B6F2CB8557900FFDBC0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		72E41B712CB8557900FFDBC0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		72E41B732CB8557900FFDBC0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		72E41B762CB8557900FFDBC0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		72E41B782CB8557B00FFDBC0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		72E41B7B2CB8557B00FFDBC0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		72E41B7D2CB8557B00FFDBC0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		72E41B822CB8557C00FFDBC0 /* AutumnSchool24Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AutumnSchool24Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		72E41B862CB8557C00FFDBC0 /* AutumnSchool24Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutumnSchool24Tests.swift; sourceTree = "<group>"; };
-		72E41B8C2CB8557C00FFDBC0 /* AutumnSchool24UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AutumnSchool24UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		72E41B902CB8557C00FFDBC0 /* AutumnSchool24UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutumnSchool24UITests.swift; sourceTree = "<group>"; };
-		72E41B922CB8557C00FFDBC0 /* AutumnSchool24UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutumnSchool24UITestsLaunchTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,29 +53,60 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		72E41B7F2CB8557C00FFDBC0 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		72E41B892CB8557C00FFDBC0 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		72C5F08C2CBA8D350088DF8F /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				72C5F0882CBA8D350088DF8F /* Colors.swift */,
+				72C5F0892CBA8D350088DF8F /* Fonts.swift */,
+				72C5F08A2CBA8D350088DF8F /* Images.swift */,
+				72C5F08B2CBA8D350088DF8F /* StyleruTabBarController.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		72C5F08E2CBA8D350088DF8F /* LoginScene */ = {
+			isa = PBXGroup;
+			children = (
+				72C5F08D2CBA8D350088DF8F /* EnterViewController.swift */,
+			);
+			path = LoginScene;
+			sourceTree = "<group>";
+		};
+		72C5F0922CBA8D350088DF8F /* Animations */ = {
+			isa = PBXGroup;
+			children = (
+				72C5F08F2CBA8D350088DF8F /* animation1.json */,
+				72C5F0902CBA8D350088DF8F /* animation2.json */,
+				72C5F0912CBA8D350088DF8F /* animation3.json */,
+			);
+			path = Animations;
+			sourceTree = "<group>";
+		};
+		72C5F0942CBA8D350088DF8F /* AnimationsScene */ = {
+			isa = PBXGroup;
+			children = (
+				72C5F0932CBA8D350088DF8F /* AnimationsViewController.swift */,
+				72C5F0922CBA8D350088DF8F /* Animations */,
+			);
+			path = AnimationsScene;
+			sourceTree = "<group>";
+		};
+		72C5F0982CBA8D4E0088DF8F /* CollectionViewScene */ = {
+			isa = PBXGroup;
+			children = (
+				72C5F0952CBA8D350088DF8F /* IconsService.swift */,
+				72C5F0962CBA8D350088DF8F /* ListCollectionViewController.swift */,
+			);
+			path = CollectionViewScene;
+			sourceTree = "<group>";
+		};
 		72E41B632CB8557900FFDBC0 = {
 			isa = PBXGroup;
 			children = (
 				72E41B6E2CB8557900FFDBC0 /* AutumnSchool24 */,
-				72E41B852CB8557C00FFDBC0 /* AutumnSchool24Tests */,
-				72E41B8F2CB8557C00FFDBC0 /* AutumnSchool24UITests */,
 				72E41B6D2CB8557900FFDBC0 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -90,8 +115,6 @@
 			isa = PBXGroup;
 			children = (
 				72E41B6C2CB8557900FFDBC0 /* AutumnSchool24.app */,
-				72E41B822CB8557C00FFDBC0 /* AutumnSchool24Tests.xctest */,
-				72E41B8C2CB8557C00FFDBC0 /* AutumnSchool24UITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -99,32 +122,18 @@
 		72E41B6E2CB8557900FFDBC0 /* AutumnSchool24 */ = {
 			isa = PBXGroup;
 			children = (
+				72C5F08E2CBA8D350088DF8F /* LoginScene */,
+				72C5F0942CBA8D350088DF8F /* AnimationsScene */,
+				72C5F0982CBA8D4E0088DF8F /* CollectionViewScene */,
+				72C5F08C2CBA8D350088DF8F /* Utils */,
 				72E41B6F2CB8557900FFDBC0 /* AppDelegate.swift */,
 				72E41B712CB8557900FFDBC0 /* SceneDelegate.swift */,
-				72E41B732CB8557900FFDBC0 /* ViewController.swift */,
 				72E41B752CB8557900FFDBC0 /* Main.storyboard */,
 				72E41B782CB8557B00FFDBC0 /* Assets.xcassets */,
 				72E41B7A2CB8557B00FFDBC0 /* LaunchScreen.storyboard */,
 				72E41B7D2CB8557B00FFDBC0 /* Info.plist */,
 			);
 			path = AutumnSchool24;
-			sourceTree = "<group>";
-		};
-		72E41B852CB8557C00FFDBC0 /* AutumnSchool24Tests */ = {
-			isa = PBXGroup;
-			children = (
-				72E41B862CB8557C00FFDBC0 /* AutumnSchool24Tests.swift */,
-			);
-			path = AutumnSchool24Tests;
-			sourceTree = "<group>";
-		};
-		72E41B8F2CB8557C00FFDBC0 /* AutumnSchool24UITests */ = {
-			isa = PBXGroup;
-			children = (
-				72E41B902CB8557C00FFDBC0 /* AutumnSchool24UITests.swift */,
-				72E41B922CB8557C00FFDBC0 /* AutumnSchool24UITestsLaunchTests.swift */,
-			);
-			path = AutumnSchool24UITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -147,42 +156,6 @@
 			productReference = 72E41B6C2CB8557900FFDBC0 /* AutumnSchool24.app */;
 			productType = "com.apple.product-type.application";
 		};
-		72E41B812CB8557C00FFDBC0 /* AutumnSchool24Tests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 72E41B992CB8557C00FFDBC0 /* Build configuration list for PBXNativeTarget "AutumnSchool24Tests" */;
-			buildPhases = (
-				72E41B7E2CB8557C00FFDBC0 /* Sources */,
-				72E41B7F2CB8557C00FFDBC0 /* Frameworks */,
-				72E41B802CB8557C00FFDBC0 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				72E41B842CB8557C00FFDBC0 /* PBXTargetDependency */,
-			);
-			name = AutumnSchool24Tests;
-			productName = AutumnSchool24Tests;
-			productReference = 72E41B822CB8557C00FFDBC0 /* AutumnSchool24Tests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
-		};
-		72E41B8B2CB8557C00FFDBC0 /* AutumnSchool24UITests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 72E41B9C2CB8557C00FFDBC0 /* Build configuration list for PBXNativeTarget "AutumnSchool24UITests" */;
-			buildPhases = (
-				72E41B882CB8557C00FFDBC0 /* Sources */,
-				72E41B892CB8557C00FFDBC0 /* Frameworks */,
-				72E41B8A2CB8557C00FFDBC0 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				72E41B8E2CB8557C00FFDBC0 /* PBXTargetDependency */,
-			);
-			name = AutumnSchool24UITests;
-			productName = AutumnSchool24UITests;
-			productReference = 72E41B8C2CB8557C00FFDBC0 /* AutumnSchool24UITests.xctest */;
-			productType = "com.apple.product-type.bundle.ui-testing";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -195,14 +168,6 @@
 				TargetAttributes = {
 					72E41B6B2CB8557900FFDBC0 = {
 						CreatedOnToolsVersion = 15.4;
-					};
-					72E41B812CB8557C00FFDBC0 = {
-						CreatedOnToolsVersion = 15.4;
-						TestTargetID = 72E41B6B2CB8557900FFDBC0;
-					};
-					72E41B8B2CB8557C00FFDBC0 = {
-						CreatedOnToolsVersion = 15.4;
-						TestTargetID = 72E41B6B2CB8557900FFDBC0;
 					};
 				};
 			};
@@ -220,8 +185,6 @@
 			projectRoot = "";
 			targets = (
 				72E41B6B2CB8557900FFDBC0 /* AutumnSchool24 */,
-				72E41B812CB8557C00FFDBC0 /* AutumnSchool24Tests */,
-				72E41B8B2CB8557C00FFDBC0 /* AutumnSchool24UITests */,
 			);
 		};
 /* End PBXProject section */
@@ -234,20 +197,9 @@
 				72E41B792CB8557B00FFDBC0 /* Assets.xcassets in Resources */,
 				72E41B7C2CB8557B00FFDBC0 /* Base in Resources */,
 				72E41B772CB8557900FFDBC0 /* Base in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		72E41B802CB8557C00FFDBC0 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		72E41B8A2CB8557C00FFDBC0 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
+				72C5F0A12CBA8DD50088DF8F /* animation1.json in Resources */,
+				72C5F0A22CBA8DD50088DF8F /* animation2.json in Resources */,
+				72C5F0A32CBA8DD50088DF8F /* animation3.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,43 +210,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				72E41B742CB8557900FFDBC0 /* ViewController.swift in Sources */,
 				72E41B702CB8557900FFDBC0 /* AppDelegate.swift in Sources */,
 				72E41B722CB8557900FFDBC0 /* SceneDelegate.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		72E41B7E2CB8557C00FFDBC0 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				72E41B872CB8557C00FFDBC0 /* AutumnSchool24Tests.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		72E41B882CB8557C00FFDBC0 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				72E41B932CB8557C00FFDBC0 /* AutumnSchool24UITestsLaunchTests.swift in Sources */,
-				72E41B912CB8557C00FFDBC0 /* AutumnSchool24UITests.swift in Sources */,
+				72C5F09B2CBA8DBF0088DF8F /* StyleruTabBarController.swift in Sources */,
+				72C5F09C2CBA8DBF0088DF8F /* Images.swift in Sources */,
+				72C5F09F2CBA8DD50088DF8F /* AnimationsViewController.swift in Sources */,
+				72C5F0A02CBA8DD50088DF8F /* EnterViewController.swift in Sources */,
+				72C5F09D2CBA8DBF0088DF8F /* Fonts.swift in Sources */,
+				72C5F09E2CBA8DBF0088DF8F /* Colors.swift in Sources */,
+				72C5F09A2CBA8DB10088DF8F /* IconsService.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		72E41B842CB8557C00FFDBC0 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 72E41B6B2CB8557900FFDBC0 /* AutumnSchool24 */;
-			targetProxy = 72E41B832CB8557C00FFDBC0 /* PBXContainerItemProxy */;
-		};
-		72E41B8E2CB8557C00FFDBC0 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 72E41B6B2CB8557900FFDBC0 /* AutumnSchool24 */;
-			targetProxy = 72E41B8D2CB8557C00FFDBC0 /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		72E41B752CB8557900FFDBC0 /* Main.storyboard */ = {
@@ -489,78 +417,6 @@
 			};
 			name = Release;
 		};
-		72E41B9A2CB8557C00FFDBC0 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = styleru.AutumnSchool24Tests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AutumnSchool24.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/AutumnSchool24";
-			};
-			name = Debug;
-		};
-		72E41B9B2CB8557C00FFDBC0 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = styleru.AutumnSchool24Tests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AutumnSchool24.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/AutumnSchool24";
-			};
-			name = Release;
-		};
-		72E41B9D2CB8557C00FFDBC0 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				GENERATE_INFOPLIST_FILE = YES;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = styleru.AutumnSchool24UITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = AutumnSchool24;
-			};
-			name = Debug;
-		};
-		72E41B9E2CB8557C00FFDBC0 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				GENERATE_INFOPLIST_FILE = YES;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = styleru.AutumnSchool24UITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = AutumnSchool24;
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -578,24 +434,6 @@
 			buildConfigurations = (
 				72E41B972CB8557C00FFDBC0 /* Debug */,
 				72E41B982CB8557C00FFDBC0 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		72E41B992CB8557C00FFDBC0 /* Build configuration list for PBXNativeTarget "AutumnSchool24Tests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				72E41B9A2CB8557C00FFDBC0 /* Debug */,
-				72E41B9B2CB8557C00FFDBC0 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		72E41B9C2CB8557C00FFDBC0 /* Build configuration list for PBXNativeTarget "AutumnSchool24UITests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				72E41B9D2CB8557C00FFDBC0 /* Debug */,
-				72E41B9E2CB8557C00FFDBC0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
